@@ -1,0 +1,8 @@
+__pycache__
+*.zip
+/data/
+/engine/data/
+/transfer_data/
+/full-body-vto/preprocess/pytorch-openpose/model/
+/full-body-vto/preprocess/Self-Correction-Human-Parsing/checkpoints/
+/full-body-vto/preprocess/detectron2/projects/DensePose/model_final_162be9.pkl
